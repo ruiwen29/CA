@@ -1,30 +1,32 @@
 # Compilation Avancée - Projet Machine Universelle
 ### Auteur : 
-* WANG Ruiwen
-### But = 
-* Ce projet sert à réaliser une machine universelle pour décoder les fichiers bytecode et modéliser 
-* comment elle fonctionne avec des instrcutions spécifiques.
+' WANG Ruiwen '
+### But :
+' Ce projet sert à réaliser une machine universelle pour décoder les fichiers bytecode 
+ et modéliser comment elle fonctionne avec des instrcutions spécifiques. '
 
 ## Getting Started 
-* dossier src contient le code source de la machine universelle
+* les dossier : 
+* src contient le code source de la machine universelle
 * bin contient les buildfile
 * data contient les fichiers bytecode à traiter
 * output contient les résultat renvoie par la machine 
 
 ### Prerequisites
-projet est codé en C,donc : gcc
+projet est codé en C,donc : 
+    'gcc'
 
 ### Installation 
 * pour compiler le projet:
-make
+    'make'
 
 ### Usage example 
 * pour exécuter le projet:
-    make run
+    'make run'
 * pour voir le résultat exécuter avec sandmark:
-    make checkSandmark
+    'make checkSandmark'
 * pour voir le résultat exécuter avec codex:
-    make checkCodex
+    'make checkCodex'
 
 
 ## Release History 
