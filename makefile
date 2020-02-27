@@ -20,9 +20,14 @@ $(DIR_OBJ)/$(Um).o: ${DIR_SRC}/$(Um).c
 run: $(TARGET)
 	./$(TARGET) data/sandmark.umz > ./${DIR_OUTPUT}/outSandmark;
 	./$(TARGET) data/codex.umz > ./${DIR_OUTPUT}/outCodex;
+testUm : $(TARGET)
+	./$(TARGET) data/cmu.um > ./${DIR_OUTPUT}/outUm;
+
 checkSandmark:
 	more ./${DIR_OUTPUT}/outSandmark	
 checkCodex:
 	more ./${DIR_OUTPUT}/outCodex
+checkUm:
+	more ./${DIR_OUTPUT}/outUm
 clean:
 	rm -rf $(DIR_OBJ)

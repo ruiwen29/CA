@@ -21,20 +21,27 @@ projet est codé en C,donc :
     ```make```
 
 ### Usage example 
-* pour exécuter le projet:
+*   pour exécuter le projet tester en sandmark et codex:
     ```make run```
-* pour voir le résultat exécuter avec sandmark:
+    * pour exécuter le projet tester en cmu.um:
+    ```make testUm```    
+    * pour voir le résultat exécuter avec sandmark:
     ```make checkSandmark```
-* pour voir le résultat exécuter avec codex:
+    * pour voir le résultat exécuter avec codex:
     ```make checkCodex```
+    * pour voir le résultat exécuter avec cmu.um:
+    ```make checkUm```
+
 
 
 ## Release History 
 
-* 0.1.0 - réaliser tous les fonctions mais la machine s'arrèt au boucle 387
+* 0.1.0 - réaliser tous les fonctions mais la machine s'arrèt au boucle 387 avec div error
 
 ## Data Structure 
 * plateau : int 
 * tab_plateaux : unsigned int**
 * registre : int[8]
 
+## Problème reste:
+* Je ne sais pas pourquoi au boucle 387 la machine lance 'div error' mais j'ai éssayé plusieur fois pour tester les fonction ceux sont bien marcher

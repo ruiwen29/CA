@@ -1,0 +1,104 @@
+Boucle 0 | Operator : 13 | A : 0 B : 0 C : 0
+0 0 0 0 0 18 0 0 
+Boucle 1 | Operator : 0 | A : 0 B : 0 C : 0
+0 0 0 0 0 18 0 0 
+Boucle 2 | Operator : 0 | A : 0 B : 0 C : 0
+0 0 0 0 0 18 0 0 
+Boucle 3 | Operator : 0 | A : 0 B : 0 C : 0
+0 0 0 0 0 18 0 0 
+Boucle 4 | Operator : 0 | A : 0 B : 0 C : 0
+0 0 0 0 0 18 0 0 
+Boucle 5 | Operator : 0 | A : 0 B : 0 C : 0
+0 0 0 0 0 18 0 0 
+Boucle 6 | Operator : 0 | A : 0 B : 0 C : 0
+0 0 0 0 0 18 0 0 
+Boucle 7 | Operator : 0 | A : 0 B : 0 C : 0
+0 0 0 0 0 18 0 0 
+Boucle 8 | Operator : 13 | A : 0 B : 0 C : 0
+256 0 0 0 0 18 0 0 
+Boucle 9 | Operator : 13 | A : 256 B : 256 C : 0
+256 0 7 0 0 18 0 0 
+Boucle 10 | Operator : 13 | A : 0 B : 0 C : 0
+256 0 7 33554431 0 18 0 0 
+Boucle 11 | Operator : 3 | A : 0 B : 33554431 C : 0
+256 0 7 33554431 33554431 18 0 0 
+Boucle 12 | Operator : 6 | A : 33554431 B : 0 C : 33554431
+256 0 7 -1 33554431 18 0 0 
+Boucle 13 | Operator : 6 | A : 4294967295 B : 4294967295 C : 4294967295
+256 0 7 0 33554431 18 0 0 
+Boucle 14 | Operator : 5 | A : 0 B : 0 C : 33554431
+256 0 7 0 33554431 18 0 0 
+Boucle 15 | Operator : 6 | A : 0 B : 7 C : 0
+256 -1 7 0 33554431 18 0 0 
+Boucle 16 | Operator : 6 | A : 4294967295 B : 4294967295 C : 4294967295
+256 0 7 0 33554431 18 0 0 
+Boucle 17 | Operator : 2 | A : 0 B : 0 C : 0
+256 0 7 0 33554431 18 0 0 
+Boucle 18 | Operator : 1 | A : 0 B : 0 C : 256
+256 134217936 7 0 33554431 18 0 0 
+Boucle 19 | Operator : 13 | A : 256 B : 256 C : 134217936
+256 134217936 7 0 33554431 18 0 1 
+Boucle 20 | Operator : 3 | A : 256 B : 1 C : 256
+257 134217936 7 0 33554431 18 0 1 
+Boucle 21 | Operator : 13 | A : 0 B : 1 C : 1
+257 134217936 7 255 33554431 18 0 1 
+Boucle 22 | Operator : 1 | A : 255 B : 0 C : 255
+257 134217936 7 268435456 33554431 18 0 1 
+Boucle 23 | Operator : 5 | A : 268435456 B : 134217936 C : 268435456
+257 134217936 7 0 33554431 18 0 1 
+Boucle 24 | Operator : 13 | A : 257 B : 0 C : 33554431
+257 134217936 7 0 28 18 0 1 
+Boucle 25 | Operator : 3 | A : 28 B : 28 C : 0
+257 134217936 7 0 28 18 0 1 
+Boucle 26 | Operator : 1 | A : 28 B : 0 C : 28
+257 134217936 7 0 42 18 0 1 
+Boucle 27 | Operator : 12 | A : 257 B : 0 C : 42
+257 134217936 7 0 42 18 0 1 
+Boucle 42 | Operator : 13 | A : 257 B : 134217936 C : 257
+257 134217936 7 0 42 18 0 8 
+Boucle 43 | Operator : 5 | A : 42 B : 134217936 C : 8
+257 134217936 7 0 16777242 18 0 8 
+Boucle 44 | Operator : 5 | A : 0 B : 16777242 C : 8
+257 134217936 7 2097155 16777242 18 0 8 
+Boucle 45 | Operator : 6 | A : 16777242 B : 16777242 C : 7
+257 134217936 7 2097155 -3 18 0 8 
+Boucle 46 | Operator : 6 | A : 4294967293 B : 4294967293 C : 4294967293
+257 134217936 7 2097155 2 18 0 8 
+Boucle 47 | Operator : 6 | A : 2097155 B : 2097155 C : 7
+257 134217936 7 -4 2 18 0 8 
+Boucle 48 | Operator : 6 | A : 4294967292 B : 4294967292 C : 4294967292
+257 134217936 7 3 2 18 0 8 
+Boucle 49 | Operator : 6 | A : 8 B : 134217936 C : 7
+257 134217936 7 3 2 18 0 -1 
+Boucle 50 | Operator : 6 | A : 4294967295 B : 4294967295 C : 4294967295
+257 134217936 7 3 2 18 0 0 
+Boucle 51 | Operator : 1 | A : 0 B : 0 C : 0
+257 134217936 7 3 2 18 0 0 
+Boucle 52 | Operator : 1 | A : 134217936 B : 0 C : 3
+257 0 7 3 2 18 0 0 
+Boucle 53 | Operator : 1 | A : 2 B : 0 C : 2
+257 0 7 3 0 18 0 0 
+Boucle 54 | Operator : 0 | A : 0 B : 0 C : 0
+257 0 7 3 0 18 0 0 
+Boucle 55 | Operator : 2 | A : 0 B : 3 C : 0
+257 0 7 3 0 18 0 0 
+Boucle 56 | Operator : 12 | A : 257 B : 0 C : 18
+257 0 7 3 0 18 0 0 
+Boucle 18 | Operator : 1 | A : 0 B : 0 C : 257
+257 805306560 7 3 0 18 0 0 
+Boucle 19 | Operator : 13 | A : 257 B : 257 C : 805306560
+257 805306560 7 3 0 18 0 1 
+Boucle 20 | Operator : 3 | A : 257 B : 1 C : 257
+258 805306560 7 3 0 18 0 1 
+Boucle 21 | Operator : 13 | A : 3 B : 1 C : 1
+258 805306560 7 255 0 18 0 1 
+Boucle 22 | Operator : 1 | A : 255 B : 0 C : 255
+258 805306560 7 268435456 0 18 0 1 
+Boucle 23 | Operator : 5 | A : 268435456 B : 805306560 C : 268435456
+258 805306560 7 3 0 18 0 1 
+Boucle 24 | Operator : 13 | A : 258 B : 3 C : 0
+258 805306560 7 3 28 18 0 1 
+Boucle 25 | Operator : 3 | A : 28 B : 28 C : 3
+258 805306560 7 3 31 18 0 1 
+Boucle 26 | Operator : 1 | A : 31 B : 0 C : 31
+25
