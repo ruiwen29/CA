@@ -1,7 +1,7 @@
 # Compilation Avancée - Projet Machine Universelle
 ### Auteur : 
 ``` WANG Ruiwen ```
-### But :
+
 ``` Ce projet sert à réaliser une machine universelle pour décoder les fichiers bytecode et modéliser comment elle fonctionne avec des instrcutions spécifiques.  ```
  
 
